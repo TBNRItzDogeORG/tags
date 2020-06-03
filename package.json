@@ -1,7 +1,7 @@
 {
 	"name": "@doge/tags",
-	"version": "2.1.3",
-	"description": "A minimal tags parser forked from soumil07/bread-tags.",
+	"version": "2.1.4",
+	"description": "A minimal tags parser based on soumil07/bread-tags.",
 	"main": "src/index.js",
 	"repository": {
 		"type": "git",
