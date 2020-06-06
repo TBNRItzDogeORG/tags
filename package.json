@@ -1,7 +1,7 @@
 {
 	"name": "@tbnritzdoge/tags",
-	"version": "2.2.1",
-	"description": "A minimal tags parser based on soumil07/bread-tags.",
+	"version": "2.3.0",
+	"description": "A minimal tags parser based on soumil07/bread-tags with more endpoints and added functionality.",
 	"main": "src/index.js",
 	"repository": {
 		"type": "git",
@@ -11,8 +11,7 @@
 	"author": "doge",
 	"license": "GNU-v3",
 	"contributors": [
-		"Soumil07 (https://github.com/Soumil07)",
-		"The Aero Team <team@aero.bot> (https://aero.bot)"
+		"Soumil07 (https://github.com/Soumil07)"
 	],
 	"publishConfig": { "registry": "https://registry.npmjs.com/" }
 }
