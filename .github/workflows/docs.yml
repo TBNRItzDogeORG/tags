@@ -1,3 +1,7 @@
-uses: brunokrauss/jsdoc-action@1
+name: Build
+uses: andstor/jsdoc-action@v1
 with:
-    jsdoc-path: 'src'
+source_dir: ./src
+recurse: true
+output_dir: ./out
+on: [push]
