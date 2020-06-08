@@ -1,6 +1,6 @@
 # @tbnritzdoge/tags
 
-Small tag parser based on [bread-tags](https://github.com/Soumil07/bread-tags).
+Small tag parser based on [bread-tags](https://github.com/Soumil07/bread-tags). https://badgen.net/npm/dt/@tbnritzdoge/tags
 ```js
 const { Event } = require("klasa");
 const Parser = require("@tbnritzdoge/tags");
