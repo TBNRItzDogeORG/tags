@@ -1,3 +1,4 @@
+// Copyright (c) Soumil07, BSD-3 License
 const { TYPES: { CHAR, TAG } } = require('./constants.js');
 
 const token = (parent, type) => ({

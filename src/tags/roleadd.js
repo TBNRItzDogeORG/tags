@@ -1,3 +1,4 @@
+// Copyright (c) Soumil07, BSD-3 License
 const { regex } = require('../util/utils.js');
 
 module.exports = {

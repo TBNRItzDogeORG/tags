@@ -1,3 +1,4 @@
+// Copyright (c) Soumil07, BSD-3 Licenses
 module.exports = {
 	aliases: [`hoist`],
 	name: 'hoistrole',

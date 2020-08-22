@@ -1,3 +1,4 @@
+// Copyright (c) Soumil07, BSD-3 License
 const fs = require('fs');
 const { join } = require('path');
 const scan = require('./scan.js');
