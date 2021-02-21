@@ -4,6 +4,6 @@ module.exports = {
 	name: 'args',
 	run: ctx => {
 		if (!ctx.args || !ctx.args.length) throw 'no arguments provided.';
-		return typeof ctx.value === 'number' ? ctx.args[ctx.value] : ctx.args.join(' ');
+		return !isNaN(ctx.value)  ? ctx.args[ctx.value] : ctx.args.join(' ');
 	}
 };

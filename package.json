@@ -1,6 +1,6 @@
 {
 	"name": "@tbnritzdoge/tags",
-	"version": "2.3.1",
+	"version": "2.3.2",
 	"description": "A minimal tags parser based on soumil07/bread-tags with more endpoints and added functionality.",
 	"main": "src/index.js",
 	"repository": {
